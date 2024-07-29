@@ -1,0 +1,18 @@
+.arrayBar{
+    width: 30px;
+    margin: 0 5px;
+    background-color: teal;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .array-container{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 400px;
+    width: 100%;
+  }
